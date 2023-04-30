@@ -1,0 +1,2 @@
+# cinnamon-js
+REPLACED BY CINNAMON.PY
